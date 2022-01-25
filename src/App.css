@@ -6,3 +6,6 @@ body{
     padding: 20px 80px;
 }
 
+*{
+    box-sizing: border-box;
+}
